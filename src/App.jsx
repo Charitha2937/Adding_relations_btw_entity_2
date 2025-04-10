@@ -7,7 +7,7 @@ const initialProducts = [
     id: 1,
     name: "Wireless Headphones",
     description: "High-quality sound with noise cancellation.",
-    image: "https://picsum.photos/300/200?random=1",
+    image: "https://m.media-amazon.com/images/I/71rhirbPmvL._SL1500_.jpg",
     avgRating: 4.2,
     totalRatings: 10
   },
@@ -15,7 +15,7 @@ const initialProducts = [
     id: 2,
     name: "Smartwatch",
     description: "Track your fitness and notifications.",
-    image: "https://picsum.photos/300/200?random=2",
+    image: "https://tse2.mm.bing.net/th?id=OIP.J3MqT1kOJg5YEKxQPLgp7QHaIL&pid=Api&P=0&h=180",
     avgRating: 3.8,
     totalRatings: 15
   },
@@ -23,7 +23,7 @@ const initialProducts = [
     id: 3,
     name: "Portable Speaker",
     description: "Powerful sound in a compact design.",
-    image: "https://picsum.photos/300/200?random=3",
+    image: "https://s.hdnux.com/photos/22/56/52/4909696/3/1200x0.jpg",
     avgRating: 4.5,
     totalRatings: 8
   }
